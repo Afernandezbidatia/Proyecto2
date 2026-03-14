@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+afernandez_package/__init__.py
+afernandez_package/main.py
+afernandez_package.egg-info/PKG-INFO
+afernandez_package.egg-info/SOURCES.txt
+afernandez_package.egg-info/dependency_links.txt
+afernandez_package.egg-info/top_level.txt
+afernandez_package/translator/__init__.py
+afernandez_package/translator/en_es.py
+afernandez_package/translator/es_en.py

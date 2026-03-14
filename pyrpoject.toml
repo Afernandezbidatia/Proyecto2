@@ -1,0 +1,6 @@
+[project]
+name = "afernandez_package"
+version = "1.0.0"
+
+[tool.setuptools.packages]
+find = {} = 
