@@ -1,2 +1,1 @@
-# Proyecto
-Proyecto inicial de pruebas de sincronizacion con git
+Versión 1 del texto
